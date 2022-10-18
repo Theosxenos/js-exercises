@@ -1,0 +1,1 @@
+Exercises from: https://javascript.info/variables
